@@ -15,3 +15,5 @@ By the end of the week all developers can:
 -Pair using the driver-navigator style
 -Follow an effective debugging process
 -Describe some basic OO principles like encapsulation, SRP
+
+:)
