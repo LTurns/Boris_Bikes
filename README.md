@@ -8,7 +8,7 @@ They want you to build a program that will emulate all the docking stations, bik
 
 Coding will be in Ruby.
 
-###Reminder of weekly goals:###
+Reminder of weekly goals:
 By the end of the week all developers can:
 
 -Test-drive a simple program using objects and methods
